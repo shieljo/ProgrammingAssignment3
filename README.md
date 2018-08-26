@@ -6,6 +6,7 @@ This repo contains my submission for the Coursera/Johns Hopkins Data Science Spe
 The contents of this repository are:
 1. An R script to process the some into a tidy data set: run_analysis.R
 2. A code book for the assignment: CodeBook.md
+3. A file containing the processed data: avg_har.csv
 
 The raw datafiles for this project are sourced from UCI Machine Learning repository dataset for Human Activity Recognition Using Smartphones (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). The Human Activity Recognition database was built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
 
@@ -17,3 +18,4 @@ The run_analysis.R script performs the following steps:
 5. Uses descriptive activity names to name the activities in the data set
 6. Appropriately labels the data set with descriptive variable names. 
 7. From the data set in step 6, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+8. Saves the data set in a file called avg.har.csv
