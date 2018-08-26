@@ -57,8 +57,11 @@ The run_analysis() function performs the following steps:
 The output dataset contains the following variables:
 
 activity
+
 subject
+
 bodyaccmeanx
+
 bodyaccmeany
 bodyaccmeanz
 bodyaccstdx
