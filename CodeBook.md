@@ -57,71 +57,140 @@ The run_analysis() function performs the following steps:
 The output dataset contains the following variables:
 
 activities: The activity performed
+
 subject: Subject ID
+
 tbodyaccmeanx: Mean time for acceleration of body for X direction
+
 tbodyaccmeany: Mean time for acceleration of body for Y direction
+
 tbodyaccmeanz: Mean time for acceleration of body for Z direction
+
 tbodyaccstdx: Standard deviation of time for acceleration of body for X direction
+
 tbodyaccstdy: Standard deviation of time for acceleration of body for Y direction
+
 tbodyaccstdz: Standard deviation of time for acceleration of body for Z direction
+
 tgravityaccmeanx: Mean time of acceleration of gravity for X direction
+
 tgravityaccmeany: Mean time of acceleration of gravity for Y direction
+
 tgravityaccmeanz: Mean time of acceleration of gravity for Z direction
+
 tgravityaccstdx: Standard deviation of time of acceleration of gravity for X direction
+
 tgravityaccstdy: Standard deviation of time of acceleration of gravity for Y direction
+
 tgravityaccstdz: Standard deviation of time of acceleration of gravity for Z direction
+
 tbodyaccjerkmeanx: Mean time of body acceleration jerk for X direction
+
 tbodyaccjerkmeany: Mean time of body acceleration jerk for Y direction
+
 tbodyaccjerkmeanz: Mean time of body acceleration jerk for Z direction
+
 tbodyaccjerkstdx: Standard deviation of time of body acceleration jerk for X direction
+
 tbodyaccjerkstdy: Standard deviation of time of body acceleration jerk for Y direction
+
 tbodyaccjerkstdz: Standard deviation of time of body acceleration jerk for Z direction
+
 tbodygyromeanx: Mean body gyroscope measurement for X direction
+
 tbodygyromeany: Mean body gyroscope measurement for Y direction
+
 tbodygyromeanz: Mean body gyroscope measurement for Z direction
+
 tbodygyrostdx: Standard deviation of body gyroscope measurement for X direction
+
 tbodygyrostdy: Standard deviation of body gyroscope measurement for Y direction
+
 tbodygyrostdz: Standard deviation of body gyroscope measurement for Z direction
+
 tbodygyrojerkmeanx: Mean jerk signal of body for X direction
+
 tbodygyrojerkmeany: Mean jerk signal of body for Y direction
+
 tbodygyrojerkmeanz: Mean jerk signal of body for Z direction
+
 tbodygyrojerkstdx: Standard deviation of jerk signal of body for X direction
+
 tbodygyrojerkstdy: Standard deviation of jerk signal of body for Y direction
+
 tbodygyrojerkstdz: Standard deviation of jerk signal of body for Z direction
+
 tbodyaccmagmean: Mean magnitude of body Acc
+
 tbodyaccmagstd: Standard deviation of magnitude of body Acc
+
 tgravityaccmagmean: Mean gravity acceleration magnitude
+
 tgravityaccmagstd: Standard deviation of gravity acceleration magnitude
+
 tbodyaccjerkmagmean: Mean magnitude of body acceleration jerk
+
 tbodyaccjerkmagstd: Standard deviation of magnitude of body acceleration jerk
+
 tbodygyromagmean: Mean magnitude of body gyroscope measurement
+
 tbodygyromagstd: Standard deviation of magnitude of body gyroscope measurement
+
 tbodygyrojerkmagmean: Mean magnitude of body body gyroscope jerk measurement
+
 tbodygyrojerkmagstd: Standard deviation of magnitude of body body gyroscope jerk measurement
+
 fbodyaccmeanx: Mean frequency of body acceleration for X direction
+
 fbodyaccmeany: Mean frequency of body acceleration for Y direction
+
 fbodyaccmeanz: Mean frequency of body acceleration for Z direction
+
 fbodyaccstdx: Standard deviation of frequency of body acceleration for X direction
+
 fbodyaccstdy: Standard deviation of frequency of body acceleration for Y direction
+
 fbodyaccstdz: Standard deviation of frequency of body acceleration for Z direction
+
 fbodyaccjerkmeanx: Mean frequency of body accerlation jerk for X direction
+
 fbodyaccjerkmeany: Mean frequency of body accerlation jerk for Y direction
+
 fbodyaccjerkmeanz: Mean frequency of body accerlation jerk for Z direction
+
 fbodyaccjerkstdx: Standard deviation frequency of body accerlation jerk for X direction
+
 fbodyaccjerkstdy: Standard deviation frequency of body accerlation jerk for Y direction
+
 fbodyaccjerkstdz: Standard deviation frequency of body accerlation jerk for Z direction
+
 fbodygyromeanx: Mean frequency of body gyroscope measurement for X direction
+
 fbodygyromeany: Mean frequency of body gyroscope measurement for Y direction
+
 fbodygyromeanz: Mean frequency of body gyroscope measurement for Z direction
+
 fbodygyrostdx: Standard deviation frequency of body gyroscope measurement for X direction
+
 fbodygyrostdy: Standard deviation frequency of body gyroscope measurement for Y direction
+
 fbodygyrostdz: Standard deviation frequency of body gyroscope measurement for Z direction
+
 fbodyaccmagmean: Mean frequency of body acceleration magnitude
+
 fbodyaccmagstd: Standard deviation of frequency of body acceleration magnitude
+
 fbodybodyaccjerkmagmean: Mean frequency of body acceleration jerk magnitude
+
 fbodybodyaccjerkmagstd: Standard deviation of frequency of body acceleration jerk magnitude
+
 fbodybodygyromagmean: Mean frequency of magnitude of body gyroscope measurement
+
 fbodybodygyromagstd: Standard deviation of frequency of magnitude of body gyroscope measurement
+
 fbodybodygyrojerkmagmean: Mean frequency of magnitude of body gyroscope jerk measurement
+
 fbodybodygyrojerkmagstd: Standard deviation frequency of magnitude of body gyroscope jerk measurement
+
+
 
